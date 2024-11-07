@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90px;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+
+}
+
+
+.menu__time h2 {
+    color:red;
+
+}
+.menu__score h2 {
+    color: red;
+}
+
+.panel{
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px red;
+
+}
+
+.square{
+    height: 150px;
+    border: solid 1px #000;
+    width: 150px;
+}
