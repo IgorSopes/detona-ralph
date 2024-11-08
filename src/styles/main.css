@@ -46,7 +46,7 @@ h2{
 }
 
 .enemy{
-    background-image: url(../src/img/ralph.png);
+    background-image: url(/src/img/ralph.png);
     background-size: cover;
     
 }
